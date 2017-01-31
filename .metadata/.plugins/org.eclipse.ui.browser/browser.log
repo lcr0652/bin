@@ -1,0 +1,39 @@
+
+1월 07, 2017 09:44:55.56 NEW SESSION
+1월 07, 2017 09:44:55.56 [12188:10956:0107/094455:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1407
+1월 07, 2017 09:44:55.56 [12188:10956:0107/094455:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 604
+1월 07, 2017 09:44:55.56 [12188:10956:0107/094455:ERROR:gpu_video_decode_accelerator.cc(365)] HW video decode not available for profile 12
+1월 07, 2017 10:59:45.80 [12188:10956:0107/105945:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1407
+1월 07, 2017 10:59:45.80 [12188:10956:0107/105945:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 604
+1월 07, 2017 10:59:45.81 [12188:10956:0107/105945:ERROR:gpu_video_decode_accelerator.cc(365)] HW video decode not available for profile 12
+1월 07, 2017 11:06:20.86 [12188:10956:0107/110620:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1407
+1월 07, 2017 11:06:20.86 [12188:10956:0107/110620:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 604
+1월 07, 2017 11:06:20.87 [12188:10956:0107/110620:ERROR:gpu_video_decode_accelerator.cc(365)] HW video decode not available for profile 12
+1월 07, 2017 11:06:20.95 [12188:10956:0107/110620:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1407
+1월 07, 2017 11:06:20.95 [12188:10956:0107/110620:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 604
+1월 07, 2017 11:06:20.96 [12188:10956:0107/110620:ERROR:gpu_video_decode_accelerator.cc(365)] HW video decode not available for profile 12
+1월 07, 2017 11:30:43.70 [12188:10956:0107/113043:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1407
+1월 07, 2017 11:30:43.70 [12188:10956:0107/113043:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 604
+1월 07, 2017 11:30:43.71 [12188:10956:0107/113043:ERROR:gpu_video_decode_accelerator.cc(365)] HW video decode not available for profile 12
+1월 07, 2017 13:12:25.94 [6352:1548:0107/131225:ERROR:mcs_client.cc(753)] Received close command, resetting connection.
+1월 07, 2017 20:15:41.40 [12188:10956:0107/201541:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1407
+1월 07, 2017 20:15:41.40 [12188:10956:0107/201541:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 604
+1월 07, 2017 20:15:41.41 [12188:10956:0107/201541:ERROR:gpu_video_decode_accelerator.cc(365)] HW video decode not available for profile 12
+1월 07, 2017 20:16:48.15 [12188:10956:0107/201648:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1407
+1월 07, 2017 20:16:48.15 [12188:10956:0107/201648:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 604
+1월 07, 2017 20:16:48.16 [12188:10956:0107/201648:ERROR:gpu_video_decode_accelerator.cc(365)] HW video decode not available for profile 12
+1월 08, 2017 04:55:04.23 Vector smash protection is enabled.
+1월 08, 2017 04:55:57.47 [WARNING:..\..\..\..\flash\platform\pepper\pep_module.cpp(63)] SANDBOXED
+1월 08, 2017 05:46:03.57 [0108/054603:ERROR:process_info.cc(608)] range at 0x265b45fe00000000, size 0x1aa fully unreadable
+1월 08, 2017 05:46:03.58 [0108/054603:ERROR:process_info.cc(608)] range at 0x265b466000000000, size 0x1aa fully unreadable
+1월 08, 2017 05:46:03.58 [0108/054603:ERROR:process_info.cc(608)] range at 0x0, size 0x1aa fully unreadable
+1월 08, 2017 05:52:07.40 [0108/055207:ERROR:process_info.cc(608)] range at 0x3fcc45dc00000000, size 0x16d fully unreadable
+1월 08, 2017 05:52:07.40 [0108/055207:ERROR:process_info.cc(608)] range at 0x3fcc463e00000000, size 0x16d fully unreadable
+1월 08, 2017 05:52:07.40 [0108/055207:ERROR:process_info.cc(608)] range at 0x0, size 0x16d fully unreadable
+1월 08, 2017 05:53:06.65 [0108/055306:ERROR:process_info.cc(608)] range at 0x326445f200000000, size 0x1b8 fully unreadable
+1월 08, 2017 05:53:06.66 [0108/055306:ERROR:process_info.cc(608)] range at 0x3264465400000000, size 0x1b8 fully unreadable
+1월 08, 2017 05:53:06.66 [0108/055306:ERROR:process_info.cc(608)] range at 0x0, size 0x1b8 fully unreadable
+
+1월 08, 2017 18:11:36.53 NEW SESSION
+1월 08, 2017 18:11:36.53 Vector smash protection is enabled.
+1월 08, 2017 23:25:42.13 [WARNING:..\..\..\..\flash\platform\pepper\pep_module.cpp(63)] SANDBOXED

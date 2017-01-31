@@ -1,0 +1,12 @@
+INDEX VERSION 1.3+F:\LCR\LCRwork\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+389431851.index
+1724301341.index
+3880703583.index
+2241545178.index
+3003744532.index
+2285157843.index
+2250130128.index
+270745474.index
+753439987.index
+1369630577.index
+1838899569.index
